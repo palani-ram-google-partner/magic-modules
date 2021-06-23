@@ -66,8 +66,6 @@ module Provider
                            'third_party/terraform/utils/provider_handwritten_endpoint.go.erb'],
                           ['google/transport.go',
                            'third_party/terraform/utils/transport.go.erb'],
-                          ['google/mappers.go',
-                           'templates/validator/mappers/mappers.go.erb']
                           ['google/iam_kms_key_ring.go',
                            'third_party/terraform/utils/iam_kms_key_ring.go.erb'],
                           ['google/iam_kms_crypto_key.go',
